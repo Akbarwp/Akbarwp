@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning about website developer **Laravel, ReactJS, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://akbarwp.github.io/Portofolio-TailwindCSS/](https://akbarwp.github.io/Portofolio-TailwindCSS/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Akbarwp)
 
 - 📫 How to reach me **akbarwp002@gmail.com**
 
-- 📄 Know about my experiences [https://akbarwp.github.io/Portofolio-TailwindCSS/](https://akbarwp.github.io/Portofolio-TailwindCSS/)
+- 📄 Know about my experiences [TailwindCSS](https://akbarwp.github.io/Portofolio-TailwindCSS/) & [NextJS](https://portofolio-nextjs-indol.vercel.app/)
 
 - ⚡ Fun fact **I play games Valorant (Laravel#java), Honkai Impact 3 (11280589), Honkai Star Rail (802993176)**
 
