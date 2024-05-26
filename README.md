@@ -12,7 +12,7 @@ I am a college student from Universitas Dinamika (Stikom Surabaya). And I majore
 * 🚀  I'm currently study on Make a Laundry Application for Thesis
 * 🧠  I'm learning Laravel and NextJS
 * 🤝  I'm open to collaborating on Laravel or NextJS project
-* ⚡  My hobbies is watch anime, play Rubiks 4x4, play badminton, and play games like Valorant, Honkai Impact 3, Honkai Star Rail, PES 2017. ~~~ Donation [Saweria](saweria.co/akbarwp) ~~~
+* ⚡  My hobbies is watch anime, play Rubiks 4x4, play badminton, and play games like Valorant, Honkai Impact 3, Honkai Star Rail, PES 2017. ~~~ Donation [Saweria](https://saweria.co/akbarwp) ~~~
 
 ### Skills
 
