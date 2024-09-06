@@ -9,7 +9,7 @@ I am a college student from Universitas Dinamika (Stikom Surabaya). And I majore
 * 🌍  I'm based in Sidoarjo, Indonesia
 * 🖥️  See my portfolio at [NextJS Portofolio](http://portofolio-nextjs-indol.vercel.app/) or [TailwindCSS Portofolio](https://akbarwp.github.io/Portofolio-TailwindCSS/)
 * ✉️  You can contact me at [Akbarwp002@gmail.com](mailto:Akbarwp002@gmail.com)
-* 🚀  I'm currently study on Make a Laundry Application for Thesis
+* 🚀  I'm currently study on ...
 * 🧠  I'm learning Laravel and NextJS
 * 🤝  I'm open to collaborating on Laravel or NextJS project
 * ⚡  My hobbies is watch anime, play Rubiks 4x4, play badminton, and play games like Valorant, Honkai Impact 3, Honkai Star Rail, PES 2017. ~~~ Donation [Saweria](https://saweria.co/akbarwp) ~~~
