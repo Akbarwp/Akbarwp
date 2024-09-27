@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer ~ Laravel
 ---------------------------
 
-I am a college student from Universitas Dinamika (Stikom Surabaya). And I majored in Information Systems. I am currently interested in Web Development on the Backend Developer. I use Laravel for the backend and NextJS for the frontend.
+My name is Akbar Wibowo Putra, a fresh graduate from Universitas Dinamika majoring in Information Systems, with a strong interest and expertise in web development, particularly in Backend development using the Laravel framework. I have experience in building efficient web applications and am committed to continuously improving my technical skills and providing optimal solutions for business needs through technology development.
 
 * 🌍  I'm based in Sidoarjo, Indonesia
 * 🖥️  See my portfolio at [NextJS Portofolio](http://portofolio-nextjs-indol.vercel.app/) or [TailwindCSS Portofolio](https://akbarwp.github.io/Portofolio-TailwindCSS/)
