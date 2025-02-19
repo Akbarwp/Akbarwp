@@ -12,7 +12,7 @@ My name is Akbar Wibowo Putra, a fresh graduate from Universitas Dinamika majori
 * 🚀  I'm currently study on ...
 * 🧠  I'm learning Laravel and NextJS
 * 🤝  I'm open to collaborating on Laravel or NextJS project
-* ⚡  My hobbies is watch anime, play Rubiks 4x4, play badminton, and play games like Valorant, Honkai Impact 3, Honkai Star Rail, PES 2017. ~~~ Donation [Saweria](https://saweria.co/akbarwp) ~~~
+* ⚡  My hobbies is watch anime, play Rubiks 4x4, play badminton, and play games like Valorant, Honkai Impact 3, Honkai Star Rail, PES 2017. ~~~ Donation [Saweria](https://saweria.co/akbarwp) or [Tako](https://tako.id/AkbarWP) ~~~
 
 ### Skills
 
